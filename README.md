@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[![kibotu's github stats](https://github-readme-stats.vercel.app/api?username=kibotu&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibotu&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+#### Top Sponsors
+
+- [Become a sponsor](https://github.com/sponsors/kibotu) -->
+
+<img src="https://komarev.com/ghpvc/?username=wasabeef&color=blue&style=flat-square" align="right" />
 ![Cinemagraph gif of a person lying in an Outrun themed bedroom](https://i.imgur.com/ZDw8tlA.gif)
