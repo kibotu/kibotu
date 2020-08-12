@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 
 - [Become a sponsor](https://github.com/sponsors/kibotu) -->
 
-<img src="https://komarev.com/ghpvc/?username=wasabeef&color=blue&style=flat-square" align="right" />
+<img src="https://komarev.com/ghpvc/?username=kibotu&color=blue&style=flat-square" align="right" />
+
 ![Cinemagraph gif of a person lying in an Outrun themed bedroom](https://i.imgur.com/ZDw8tlA.gif)
