@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-[![kibotu's github stats](https://github-readme-stats.vercel.app/api?username=kibotu&show_icons=true&line_height=21&show_icons=true&theme=vue&&hide=javascript,html,c#,c++,c)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibotu&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![kibotu's github stats](https://github-readme-stats.vercel.app/api?username=kibotu&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibotu&show_icons=true&layout=compact&theme=vue&hide=javascript,html,c#,c++,c&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 #### Top Sponsors
