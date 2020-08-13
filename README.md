@@ -25,3 +25,12 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=kibotu&color=blue&style=flat-square" align="right" />
 
 <!-- <br /> ![Cinemagraph gif of a person lying in an Outrun themed bedroom](https://i.imgur.com/ZDw8tlA.gif) -->
+
+Hi!
+
+My name is Jan Rabe. I am 34 years old and I live in Berlin.
+
+I'm working as Technical Lead Android for [Check24 Profis](https://www.check24.de/profis/), as well as and Android/Kotlin/Java/C# coach and consultant.
+
+All the best,
+Jan Rabe
