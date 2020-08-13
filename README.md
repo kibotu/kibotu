@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![kibotu's github stats](https://github-readme-stats.vercel.app/api?username=kibotu&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)](http://portfolio.kibotu.net/pages/cv/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibotu&show_icons=true&layout=compact&theme=vue&count_private=true)](http://portfolio.kibotu.net/pages/project-challenges/)
+[![kibotu's github stats](https://github-readme-stats.vercel.app/api?username=kibotu&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)](http://portfolio.kibotu.net/sets/apps/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibotu&show_icons=true&layout=compact&theme=vue&count_private=true)](http://portfolio.kibotu.net/sets/apps/)
 
 [![BG](http://www.kibotu.net/cv/about-background-header.jpg)](http://portfolio.kibotu.net/sets/apps/)
 
