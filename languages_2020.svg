@@ -1,0 +1,89 @@
+<svg width="350" height="170" viewBox="0 0 350 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .header {
+        font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+        fill: #41b883;
+        animation: fadeInAnimation 0.8s ease-in-out forwards;
+        }
+
+        .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #273849 }
+
+
+    </style>
+
+
+    <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#E4E2E2" width="349"
+        fill="#fffefe" stroke-opacity="1" />
+
+
+    <g data-testid="card-title" transform="translate(25, 35)">
+        <g transform="translate(0, 0)">
+            <text x="0" y="0" class="header" data-testid="header">Most Used Languages 2020</text>
+        </g>
+    </g>
+
+
+    <g data-testid="main-card-body" transform="translate(0, 55)">
+
+        <svg data-testid="lang-items" x="25">
+
+            <mask id="rect-mask">
+                <rect x="0" y="0" width="300" height="8" fill="white" rx="5" />
+            </mask>
+
+            <rect mask="url(#rect-mask)" data-testid="lang-progress" x="0" y="0" width="226.98"
+                height="8" fill="#EB7A27" />
+
+            <rect mask="url(#rect-mask)" data-testid="lang-progress" x="226.98" y="0" width="24.57"
+                height="8" fill="#178600" />
+
+            <rect mask="url(#rect-mask)" data-testid="lang-progress" x="251.55" y="0" width="18.18"
+                height="8" fill="#2A5E94" />
+
+            <rect mask="url(#rect-mask)" data-testid="lang-progress" x="269.73" y="0"
+                width="16.56" height="8" fill="#b07219" />
+
+            <rect mask="url(#rect-mask)" data-testid="lang-progress" x="286.29" y="0"
+                width="13.71" height="8" fill="#f1e05a" />
+
+
+            <g transform="translate(0, 25)">
+                <circle cx="5" cy="6" r="5" fill="#EB7A27" />
+                <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+                    Kotlin 75.66%
+                </text>
+            </g>
+
+            <g transform="translate(150, 25)">
+                <circle cx="5" cy="6" r="5" fill="#178600" />
+                <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+                    C# 8.19%
+                </text>
+            </g>
+
+            <g transform="translate(0, 50)">
+                <circle cx="5" cy="6" r="5" fill="#2A5E94" />
+                <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+                    Python 6.06%
+                </text>
+            </g>
+
+            <g transform="translate(150, 50)">
+                <circle cx="5" cy="6" r="5" fill="#b07219" />
+                <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+                    Java 5.52%
+                </text>
+            </g>
+
+            <g transform="translate(0, 75)">
+                <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+                <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+                    JavaScript 4.57%
+                </text>
+            </g>
+
+
+        </svg>
+
+    </g>
+</svg>
