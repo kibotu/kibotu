@@ -33,7 +33,7 @@ Hi!
 
 My name is Jan Rabe. I am 36 years old and I live in Berlin.
 
-I'm working as Technical Lead Android for [Check24 Profis](https://www.check24.de/profis/), as well as and Android/Kotlin/Java/C# coach and consultant.
+I'm working as Technical Team Lead Android for [Check24 Profis](https://www.check24.de/profis/), as well as and Android/Kotlin/Java/C# coach and consultant.
 
 All the best,
 Jan Rabe
