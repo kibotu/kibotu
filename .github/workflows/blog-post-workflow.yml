@@ -16,6 +16,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@kibotu"
-          max_post_count: 5
+          max_post_count: 100
+          filter_dates: "lastYear"
           template: "$newline- [$title]($url) — $date"
           date_format: "mmm dd, yyyy"
