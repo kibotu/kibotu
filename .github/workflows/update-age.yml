@@ -1,0 +1,38 @@
+name: Update child age
+on:
+  schedule:
+    # Runs every 3 months (1st of Jan, Apr, Jul, Oct at midnight)
+    - cron: '0 0 1 1,4,7,10 *'
+  workflow_dispatch:
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Update age in README
+        run: |
+          # Calculate age in years, rounded to 0.5
+          BIRTH_DATE="2024-02-16"
+          CURRENT_DATE=$(date +%Y-%m-%d)
+          
+          # Calculate days difference
+          BIRTH_EPOCH=$(date -d "$BIRTH_DATE" +%s)
+          CURRENT_EPOCH=$(date -d "$CURRENT_DATE" +%s)
+          DAYS_DIFF=$(( (CURRENT_EPOCH - BIRTH_EPOCH) / 86400 ))
+          
+          # Convert to years and round to nearest 0.5
+          YEARS=$(echo "scale=2; $DAYS_DIFF / 365.25" | bc)
+          ROUNDED=$(echo "scale=1; (($YEARS * 2) + 0.5) / 1 / 2" | bc)
+          
+          # Update README
+          sed -i "s/Dad of a [0-9.]*-year-old/Dad of a ${ROUNDED}-year-old/g" README.md
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet README.md || (git add README.md && git commit -m "Update child age" && git push)
+
