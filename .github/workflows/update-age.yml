@@ -1,8 +1,8 @@
 name: Update child age
 on:
   schedule:
-    # Runs every 3 months (1st of Jan, Apr, Jul, Oct at midnight)
-    - cron: '0 0 1 1,4,7,10 *'
+    # Runs once per month (1st of each month at midnight)
+    - cron: '0 0 1 * *'
   workflow_dispatch:
 
 jobs:
