@@ -321,6 +321,7 @@ Fully styleable compass widget. Magnetometer → beautiful UI.
 #### [🔧 ADB Turbo](https://github.com/kibotu/adb-turbo)
 Web UI for ADB commands. Tune performance, manage apps, no command line needed.
 
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/adb-turbo?style=flat-square&color=yellow)
