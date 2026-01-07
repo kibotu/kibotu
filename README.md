@@ -112,6 +112,30 @@ iOS app size analyzer. LinkMap parsing, asset tracking, module ownership. Know w
 <tr>
 <td width="50%" valign="top">
 
+#### [📏 ruler](https://github.com/kibotu/ruler)
+Gradle plugin for Android app size analysis.
+
+![Forked](https://img.shields.io/badge/-Fork-6e5494?style=flat-square&logo=git&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
+![Upstream](https://img.shields.io/badge/↑-spotify/ruler-gray?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+#### [📦 SlimStorage](https://github.com/kibotu/SlimStorage)
+Self-hosted backend for side projects. Key/value store + Event API + Admin dashboard. One PHP file.
+
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Stars](https://img.shields.io/github/stars/kibotu/SlimStorage?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/kibotu/SlimStorage?style=flat-square&color=blue)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### [📊 iOS Version Distribution](https://github.com/kibotu/ios-version-distribution)
 Track which iOS versions your users are on. Plan your minimum deployment target.
 
@@ -130,22 +154,6 @@ Same for Android. The fragmentation is real — stay informed.
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/android-version-distribution?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/android-version-distribution?style=flat-square&color=blue)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [📦 SlimStorage](https://github.com/kibotu/SlimStorage)
-Self-hosted backend for side projects. Key/value store + Event API + Admin dashboard. One PHP file.
-
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Stars](https://img.shields.io/github/stars/kibotu/SlimStorage?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/kibotu/SlimStorage?style=flat-square&color=blue)
-
-</td>
-<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -379,17 +387,6 @@ Sequential image player for smooth frame-by-frame animations.
 <tr>
 <td width="50%" valign="top">
 
-#### [📏 ruler](https://github.com/kibotu/ruler)
-Gradle plugin for Android app size analysis.
-
-![Forked](https://img.shields.io/badge/-Fork-6e5494?style=flat-square&logo=git&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
-![Upstream](https://img.shields.io/badge/↑-spotify/ruler-gray?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
 #### [🌍 ApplicationProvider](https://github.com/kibotu/ApplicationProvider)
 Retrieve Android application and current activity from anywhere.
 
@@ -399,8 +396,6 @@ Retrieve Android application and current activity from anywhere.
 ![Upstream](https://img.shields.io/badge/↑-florent37-gray?style=flat-square)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### [🔍 OkLog](https://github.com/kibotu/OkLog)
@@ -410,9 +405,6 @@ Network logging interceptor for OkHttp with encoded URL sharing.
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 ![Upstream](https://img.shields.io/badge/↑-simonpercic-gray?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
 
 </td>
 </tr>
