@@ -23,7 +23,7 @@
 
 ---
 
-## About Me <img src="" align="right" />
+## About Me
 
 I lead native app development at [CHECK24 Profis](https://www.check24.de/profis/), building products that millions rely on. By day I architect iOS and Android applications; by night I tinker with open-source tools that make developers' lives easier.
 
