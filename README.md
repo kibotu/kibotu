@@ -432,7 +432,7 @@ I'm always happy to chat about native development, team leadership, or just swap
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-hello@kibotu.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kibotu.net)
+[![Email](https://img.shields.io/badge/Email-contact@kibotu.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kibotu.net)
 [![Portfolio](https://img.shields.io/badge/Portfolio-kibotu.net-2ea44f?style=for-the-badge)](https://portfolio.kibotu.net/)
 [![Twitter](https://img.shields.io/badge/Twitter-@Wolkenschauer-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Wolkenschauer)
 
