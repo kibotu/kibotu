@@ -12,18 +12,18 @@
 
 *"It is not the answer that enlightens, but the question."* — Eugène Ionesco
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kibotu.net-2ea44f?style=flat-square)](https://portfolio.kibotu.net/)
-[![Twitter](https://img.shields.io/badge/Twitter-@Wolkenschauer-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Wolkenschauer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kibotu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kibotu/)
-[![GitHub](https://img.shields.io/badge/GitHub-kibotu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kibotu)
-[![Medium](https://img.shields.io/badge/Medium-@kibotu-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@kibotu)
-[![Play Store](https://img.shields.io/badge/Play_Store-Developer-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Jan+Rabe)
 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kibotu.net-2ea44f?style=flat-square)](https://portfolio.kibotu.net/)
+[![Medium](https://img.shields.io/badge/Medium-@kibotu-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@kibotu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kibotu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kibotu/)
+[![Play Store](https://img.shields.io/badge/Play_Store-Developer-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Jan+Rabe)
+[![Twitter](https://img.shields.io/badge/Twitter-@Wolkenschauer-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Wolkenschauer)![Profile Views](https://komarev.com/ghpvc/?username=kibotu&color=blueviolet&style=flat-square&label=Profile+Views)
 </div>
 
 ---
 
-## About Me <img src="https://komarev.com/ghpvc/?username=kibotu&color=blueviolet&style=flat-square&label=Profile+Views" align="right" />
+## About Me <img src="" align="right" />
 
 I lead native app development at [CHECK24 Profis](https://www.check24.de/profis/), building products that millions rely on. By day I architect iOS and Android applications; by night I tinker with open-source tools that make developers' lives easier.
 
