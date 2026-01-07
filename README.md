@@ -342,15 +342,87 @@ RecyclerView adapter library with different models and layouts as convenient as 
 </td>
 <td width="50%" valign="top">
 
+#### [🎵 FreedomPlayer](https://github.com/kibotu/FreedomPlayer)
+Clean media player implementation. Audio/video playback without the cruft.
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
+![Stars](https://img.shields.io/github/stars/kibotu/FreedomPlayer?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/kibotu/FreedomPlayer?style=flat-square&color=blue)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [🌐 ThreeHundredSixtyPlayer](https://github.com/kibotu/ThreeHundredSixtyPlayer)
+Native OpenGLES 2.0 360° video player. Immersive content without third-party SDKs.
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
+![Stars](https://img.shields.io/github/stars/kibotu/ThreeHundredSixtyPlayer?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/kibotu/ThreeHundredSixtyPlayer?style=flat-square&color=blue)
+
+</td>
+<td width="50%" valign="top">
+
+#### [🖼️ SequentialImagePlayer](https://github.com/kibotu/SequentialImagePlayer)
+Sequential image player for smooth frame-by-frame animations.
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
+![Stars](https://img.shields.io/github/stars/kibotu/SequentialImagePlayer?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/kibotu/SequentialImagePlayer?style=flat-square&color=blue)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [📏 ruler](https://github.com/kibotu/ruler)
+Gradle plugin for Android app size analysis.
+
+![Forked](https://img.shields.io/badge/-Fork-6e5494?style=flat-square&logo=git&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
+![Upstream](https://img.shields.io/badge/↑-spotify/ruler-gray?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+#### [🌍 ApplicationProvider](https://github.com/kibotu/ApplicationProvider)
+Retrieve Android application and current activity from anywhere.
+
+![Forked](https://img.shields.io/badge/-Fork-6e5494?style=flat-square&logo=git&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
+![Upstream](https://img.shields.io/badge/↑-florent37-gray?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [🔍 OkLog](https://github.com/kibotu/OkLog)
+Network logging interceptor for OkHttp with encoded URL sharing.
+
+![Forked](https://img.shields.io/badge/-Fork-6e5494?style=flat-square&logo=git&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
+![Upstream](https://img.shields.io/badge/↑-simonpercic-gray?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
 </td>
 </tr>
 </table>
 
 ---
 
-### 📱 Apps & Experiences
+### 📱 Apps & Experiments
 
-*Things people actually use.*
+*Side projects for fun and exploration.*
 
 <table>
 <tr>
@@ -381,37 +453,14 @@ Water temperature app for Berlin's Schlachtensee. Real-time lake conditions.
 <tr>
 <td width="50%" valign="top">
 
-#### [🎵 FreedomPlayer](https://github.com/kibotu/FreedomPlayer)
-Clean media player implementation. Audio/video playback without the cruft.
+#### [📱 Android Device Info](https://github.com/kibotu/net.kibotu.android.deviceinfo)
+Library and app for showing tons of device information for your Android device.
 
+![Archived](https://img.shields.io/badge/-Archived-gray?style=flat-square)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
-![Stars](https://img.shields.io/github/stars/kibotu/FreedomPlayer?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/kibotu/FreedomPlayer?style=flat-square&color=blue)
-
-</td>
-<td width="50%" valign="top">
-
-#### [🌐 ThreeHundredSixtyPlayer](https://github.com/kibotu/ThreeHundredSixtyPlayer)
-Native OpenGLES 2.0 360° video player. Immersive content without third-party SDKs.
-
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
-![Stars](https://img.shields.io/github/stars/kibotu/ThreeHundredSixtyPlayer?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/kibotu/ThreeHundredSixtyPlayer?style=flat-square&color=blue)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [🖼️ SequentialImagePlayer](https://github.com/kibotu/SequentialImagePlayer)
-Sequential image player for smooth frame-by-frame animations.
-
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
-![Stars](https://img.shields.io/github/stars/kibotu/SequentialImagePlayer?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/kibotu/SequentialImagePlayer?style=flat-square&color=blue)
+![Java](https://img.shields.io/badge/Java-B07219?style=flat-square&logo=openjdk&logoColor=white)
+![Stars](https://img.shields.io/github/stars/kibotu/net.kibotu.android.deviceinfo?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/kibotu/net.kibotu.android.deviceinfo?style=flat-square&color=blue)
 
 </td>
 <td width="50%" valign="top">
@@ -425,6 +474,8 @@ Sequential image player for smooth frame-by-frame animations.
 [![View All Repositories](https://img.shields.io/badge/View_All_Repositories-→-blue?style=for-the-badge)](https://github.com/kibotu?tab=repositories&q=&type=source&language=&sort=stargazers)
 
 </div>
+
+---
 
 ## 📫 Let's Connect
 
