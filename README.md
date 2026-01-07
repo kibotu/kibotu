@@ -469,6 +469,7 @@ Library and app for showing tons of device information for your Android device.
 <div align="center">
 
 [![View All Repositories](https://img.shields.io/badge/View_All_Repositories-→-blue?style=for-the-badge)](https://github.com/kibotu?tab=repositories&q=&type=source&language=&sort=stargazers)
+[![View Archived Projects](https://img.shields.io/badge/View_Archived_Projects-📦-gray?style=for-the-badge)](./ARCHIVED.md)
 
 </div>
 
