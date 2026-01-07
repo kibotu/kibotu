@@ -71,22 +71,24 @@ A decade of building things that scratch my own itch. Organized by what they act
 <tr>
 <td width="50%" valign="top">
 
-#### [📍 Geofencer](https://github.com/kibotu/geofencer) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+#### [📍 Geofencer](https://github.com/kibotu/geofencer)
 Location tracking & geofencing that actually works. Background, killed app, device reboot — it survives.
 
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/geofencer?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/geofencer?style=flat-square&color=blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### [🧭 CompassView](https://github.com/kibotu/CompassView) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+#### [🧭 CompassView](https://github.com/kibotu/CompassView)
 Fully styleable compass widget. Magnetometer → beautiful UI.
 
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/CompassView?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/CompassView?style=flat-square&color=blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 
 </td>
 </tr>
@@ -102,44 +104,48 @@ Fully styleable compass widget. Magnetometer → beautiful UI.
 <tr>
 <td width="50%" valign="top">
 
-#### [📈 Git Panorama](https://github.com/kibotu/git-panorama) ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+#### [📈 Git Panorama](https://github.com/kibotu/git-panorama)
 Answer "who works on what?" Self-hosted git analytics with Grafana dashboards. Team visibility without SaaS.
 
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/git-panorama?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/git-panorama?style=flat-square&color=blue)
-![Shell](https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnu-bash&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### [📏 Caliper](https://github.com/kibotu/caliper) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
+#### [📏 Caliper](https://github.com/kibotu/caliper)
 iOS app size analyzer. LinkMap parsing, asset tracking, module ownership. Know where your bytes go.
 
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/caliper?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/caliper?style=flat-square&color=blue)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [📊 iOS Version Distribution](https://github.com/kibotu/ios-version-distribution) ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+#### [📊 iOS Version Distribution](https://github.com/kibotu/ios-version-distribution)
 Track which iOS versions your users are on. Plan your minimum deployment target.
 
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/ios-version-distribution?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/ios-version-distribution?style=flat-square&color=blue)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### [📊 Android Version Distribution](https://github.com/kibotu/android-version-distribution) ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+#### [📊 Android Version Distribution](https://github.com/kibotu/android-version-distribution)
 Same for Android. The fragmentation is real — stay informed.
 
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/android-version-distribution?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/android-version-distribution?style=flat-square&color=blue)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 </td>
 </tr>
@@ -155,78 +161,85 @@ Same for Android. The fragmentation is real — stay informed.
 <tr>
 <td width="50%" valign="top">
 
-#### [📱 SplashScreen Compose](https://github.com/kibotu/androidx-splashscreen-compose) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+#### [📱 SplashScreen Compose](https://github.com/kibotu/androidx-splashscreen-compose)
 Animated splash screens that don't suck. Jetpack Compose + AndroidX SplashScreen, done right.
 
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/androidx-splashscreen-compose?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/androidx-splashscreen-compose?style=flat-square&color=blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### [🔍 HexQR](https://github.com/kibotu/hexqr) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+#### [🔍 HexQR](https://github.com/kibotu/hexqr)
 QR scanner that shows raw bytes before you click. See what's actually encoded.
 
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/hexqr?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/hexqr?style=flat-square&color=blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [🎵 FreedomPlayer](https://github.com/kibotu/FreedomPlayer) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+#### [🎵 FreedomPlayer](https://github.com/kibotu/FreedomPlayer)
 Clean media player implementation. Audio/video playback without the cruft.
 
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/FreedomPlayer?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/FreedomPlayer?style=flat-square&color=blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### [🔄 RecyclerViewPresenter](https://github.com/kibotu/RecyclerViewPresenter) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+#### [🔄 RecyclerViewPresenter](https://github.com/kibotu/RecyclerViewPresenter)
 RecyclerView adapter library with different models and layouts as convenient as possible.
 
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/RecyclerViewPresenter?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/RecyclerViewPresenter?style=flat-square&color=blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [🌐 ThreeHundredSixtyPlayer](https://github.com/kibotu/ThreeHundredSixtyPlayer) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+#### [🌐 ThreeHundredSixtyPlayer](https://github.com/kibotu/ThreeHundredSixtyPlayer)
 Native OpenGLES 2.0 360° video player. Immersive content without third-party SDKs.
 
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/ThreeHundredSixtyPlayer?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/ThreeHundredSixtyPlayer?style=flat-square&color=blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### [🖼️ SequentialImagePlayer](https://github.com/kibotu/SequentialImagePlayer) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+#### [🖼️ SequentialImagePlayer](https://github.com/kibotu/SequentialImagePlayer)
 Sequential image player for smooth frame-by-frame animations.
 
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/SequentialImagePlayer?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/SequentialImagePlayer?style=flat-square&color=blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [🌡️ Schlachtensee](https://github.com/kibotu/Schlachtensee) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+#### [🌡️ Schlachtensee](https://github.com/kibotu/Schlachtensee)
 Water temperature app for Berlin's Schlachtensee. Real-time lake conditions.
 
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B07219?style=flat-square&logo=openjdk&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/Schlachtensee?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/Schlachtensee?style=flat-square&color=blue)
-![Java](https://img.shields.io/badge/Java-B07219?style=flat-square&logo=openjdk&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -245,122 +258,134 @@ Water temperature app for Berlin's Schlachtensee. Real-time lake conditions.
 <tr>
 <td width="50%" valign="top">
 
-#### [⚡ Borg](https://github.com/kibotu/Borg) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+#### [⚡ Borg](https://github.com/kibotu/Borg)
 Coroutine-based dependency initialization orchestrator. App startup, but make it parallel.
 
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/Borg?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/Borg?style=flat-square&color=blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### [🦁 Khan](https://github.com/kibotu/Khan) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
+#### [🦁 Khan](https://github.com/kibotu/Khan)
 Borg's iOS sibling. Dependency initialization like androidx.startup, but for Swift.
 
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/Khan?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/Khan?style=flat-square&color=blue)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [🎬 MediaCodec Transcoder](https://github.com/kibotu/android-mediacodec-transcoder) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+#### [🎬 MediaCodec Transcoder](https://github.com/kibotu/android-mediacodec-transcoder)
 Hardware-accelerated video transcoding. Surprisingly fast, battery-friendly.
 
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/android-mediacodec-transcoder?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/android-mediacodec-transcoder?style=flat-square&color=blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### [📦 AndroidResourceExtensions](https://github.com/kibotu/AndroidResourceExtensions) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+#### [📦 AndroidResourceExtensions](https://github.com/kibotu/AndroidResourceExtensions)
 Kotlin extensions for Android resources. `R.string.foo.asString()` and friends.
 
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/AndroidResourceExtensions?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/AndroidResourceExtensions?style=flat-square&color=blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [🌐 Check Mate](https://github.com/kibotu/check-mate) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
+#### [🌐 Check Mate](https://github.com/kibotu/check-mate)
 Bidirectional native ↔ WebView bridge. JSON messages, type-safe, no JavaScript injection hacks.
 
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/check-mate?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/check-mate?style=flat-square&color=blue)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### [🔧 ADB Turbo](https://github.com/kibotu/adb-turbo) ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+#### [🔧 ADB Turbo](https://github.com/kibotu/adb-turbo)
 Web UI for ADB commands. Tune performance, manage apps, no command line needed.
 
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/adb-turbo?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/adb-turbo?style=flat-square&color=blue)
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [🔔 MCP FCM Push](https://github.com/kibotu/mcp-fcm-push) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
+#### [🔔 MCP FCM Push](https://github.com/kibotu/mcp-fcm-push)
 Send Firebase push notifications from AI assistants. Claude can ping your phone now.
 
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/mcp-fcm-push?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/mcp-fcm-push?style=flat-square&color=blue)
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### [🌲 Orchard](https://github.com/kibotu/Orchard) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
+#### [🌲 Orchard](https://github.com/kibotu/Orchard)
 Timber-style logging for iOS. Beautiful, structured logs with minimal setup.
 
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/Orchard?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/Orchard?style=flat-square&color=blue)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [📍 ServiceLocator](https://github.com/kibotu/ServiceLocator) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
+#### [📍 ServiceLocator](https://github.com/kibotu/ServiceLocator)
 Lightweight service locator pattern for iOS. Centralized object creation, decoupled dependencies.
 
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/ServiceLocator?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/ServiceLocator?style=flat-square&color=blue)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### [📦 SlimStorage](https://github.com/kibotu/SlimStorage) ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+#### [📦 SlimStorage](https://github.com/kibotu/SlimStorage)
 Self-hosted backend for side projects. Key/value store + Event API + Admin dashboard. One PHP file.
 
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/SlimStorage?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/SlimStorage?style=flat-square&color=blue)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [🧹 stale-bot](https://github.com/kibotu/stale-bot) ![CLI](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+#### [🧹 stale-bot](https://github.com/kibotu/stale-bot)
 Tags and removes stale git branches. Keep your repos clean, automatically.
 
+![CLI](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/kibotu/stale-bot?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/kibotu/stale-bot?style=flat-square&color=blue)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
