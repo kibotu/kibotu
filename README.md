@@ -47,16 +47,16 @@ I lead native app development at [CHECK24 Profis](https://www.check24.de/profis/
 
 *Multiply impact through people. Own outcomes, not just code.*
 
-🙏 **Be humble** — The best ideas come from listening, not knowing everything first.  
-🎯 **Be pragmatic** — Ship smart, iterate fast. Perfect later, working now.  
 🧭 **Be strategic** — Align what we build today with where we're going tomorrow.  
 📈 **Be a multiplier** — Grow people's capabilities and watch the team's impact scale exponentially.  
 💬 **Be clear** — Bridge the gap between technical depth and business reality.  
+🎯 **Be pragmatic** — Ship smart, iterate fast. Perfect later, working now.  
 🚧 **Be present** — Remove blockers before they become problems worth talking about.  
+🤝 **Be trusting** — Autonomy isn't risky with experienced people, it's required.  
+🛡️ **Be safe** — Smart risks and honest conversations build the kind of teams that win.  
 🔧 **Be credible** — Stay close enough to the code to make decisions grounded in reality.  
 ⭐ **Be exemplary** — Model the rigor and curiosity you want to see spread.  
-🤝 **Be trusting** — Autonomy isn't risky with experienced people, it's required.  
-🛡️ **Be safe** — Smart risks and honest conversations build the kind of teams that win.
+🙏 **Be humble** — The best ideas come from listening, not knowing everything first.
 
 ---
 
