@@ -161,6 +161,22 @@ Same for Android. The fragmentation is real — stay informed.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [🔍 GitHub Explorer](https://github.com/kibotu/github-explorer)
+Browse and filter GitHub repositories with smart filters. Public/private, forks/sources, archived — find what you need fast.
+
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Stars](https://img.shields.io/github/stars/kibotu/github-explorer?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/kibotu/github-explorer?style=flat-square&color=blue)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---
