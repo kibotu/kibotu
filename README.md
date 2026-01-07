@@ -32,11 +32,12 @@ I lead native app development at [CHECK24 Profis](https://www.check24.de/profis/
 ### What Gets Me Excited
 
 🏗️ **Architecture** — setting projects up to grow in the right direction  
-🤖 **Automation** — CI/CD, AI agents, anything that removes toil from the equation  
+🤖 **AI-augmented automation** — CI/CD, AI agents, MCP tooling, anything that removes toil  
 🔭 **Observability** — making the invisible visible, from app size to team velocity  
 🛠️ **Developer experience** — tools that make devs faster, happier, less frustrated  
-⚡ **High performance** — min-maxing every millisecond, every byte, every frame  
+⚡ **Startup & performance** — cold start times, first frame, min-maxing every millisecond and byte  
 🏠 **Self-hosting** — owning your stack, avoiding vendor lock-in, staying independent  
+🎬 **Media & graphics** — codecs, OpenGL, 360° video, hardware acceleration  
 🧠 **Semantic meaning in data** — statistics, patterns, insights that tell a story  
 📡 **Device sensors** — accelerometers, gyroscopes, cameras, the real world as input
 
