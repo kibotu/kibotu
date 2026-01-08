@@ -23,9 +23,10 @@ jobs:
           CURRENT_EPOCH=$(date -d "$CURRENT_DATE" +%s)
           DAYS_DIFF=$(( (CURRENT_EPOCH - BIRTH_EPOCH) / 86400 ))
           
-          # Convert to years and round to nearest 0.5
+          # Convert to years and round DOWN to nearest 0.5
+          # (e.g., 1.89 years -> 1.5, only shows 2.0 once they're actually 2+)
           YEARS=$(echo "scale=2; $DAYS_DIFF / 365.25" | bc)
-          ROUNDED=$(echo "scale=1; (($YEARS * 2) + 0.5) / 1 / 2" | bc)
+          ROUNDED=$(echo "scale=1; (($YEARS * 2) / 1) / 2" | bc)
           
           # Update README
           sed -i "s/Dad of a [0-9.]*-year-old/Dad of a ${ROUNDED}-year-old/g" README.md
