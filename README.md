@@ -8,7 +8,7 @@
 
 # Hey there, I'm Jan 👋
 
-**Technical Team Lead Native Apps** · Berlin, Germany · Dad of a 2.1-year-old 👶
+**Technical Team Lead Native Apps** · Berlin, Germany · Dad of a 1.8-year-old 👶
 
 *"It is not the answer that enlightens, but the question."* — Eugène Ionesco
 
