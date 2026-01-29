@@ -63,6 +63,7 @@ I lead native app development at [CHECK24 Profis](https://www.check24.de/profis/
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Production-Ready Stale Branch Bot for Jenkins: Lessons from the Trenches](https://medium.com/@kibotu/building-a-production-ready-stale-branch-bot-for-jenkins-lessons-from-the-trenches-880a2b9dec3e?source=rss-18830b7eb43------2) — Jan 28, 2026
 - [Git Panorama: Mapping Your Team’s Codebase Journey](https://medium.com/@kibotu/git-panorama-mapping-your-teams-codebase-journey-438dfb4d9bb8?source=rss-18830b7eb43------2) — Dec 23, 2025
 - [A Pragmatic Git Workflow for App Development Teams](https://medium.com/@kibotu/a-pragmatic-git-workflow-for-app-development-teams-762dff6fc138?source=rss-18830b7eb43------2) — Dec 16, 2025
 - [I Hit Firebase’s Free Tier Limit After 11 Million Events. So I Built My Own Backend.](https://medium.com/@kibotu/i-hit-firebases-free-tier-limit-after-11-million-events-so-i-built-my-own-backend-bb7164798dff?source=rss-18830b7eb43------2) — Dec 12, 2025
@@ -71,8 +72,7 @@ I lead native app development at [CHECK24 Profis](https://www.check24.de/profis/
 - [Elevating iOS Logging: A Better Way Forward with Orchard](https://medium.com/@kibotu/elevating-ios-logging-a-better-way-forward-with-orchard-aa2747f0f82b?source=rss-18830b7eb43------2) — Oct 21, 2025
 - [The UIViewController Focus Problem &lpar;And How We Actually Solved It&rpar;](https://medium.com/@kibotu/the-uiviewcontroller-focus-problem-and-how-we-actually-solved-it-602d533ac761?source=rss-18830b7eb43------2) — Oct 17, 2025
 - [Maestro: Empowering Teams to Ship Mobile Apps with Confidence](https://medium.com/@kibotu/maestro-empowering-teams-to-ship-mobile-apps-with-confidence-577ecb43f55e?source=rss-18830b7eb43------2) — Oct 13, 2025
-- [Stop Context Switching: Send Push Notifications Directly From Your AI Assistant](https://medium.com/@kibotu/stop-context-switching-send-push-notifications-directly-from-your-ai-assistant-6363f8218b5b?source=rss-18830b7eb43------2) — Oct 10, 2025
-- [Finally, Animated Splash Screens That Don’t Suck: Building androidx-splashscreen-compose](https://medium.com/@kibotu/android-animated-splash-screens-compose-b17efcaadd53?source=rss-18830b7eb43------2) — Aug 08, 2025<!-- BLOG-POST-LIST:END -->
+- [Stop Context Switching: Send Push Notifications Directly From Your AI Assistant](https://medium.com/@kibotu/stop-context-switching-send-push-notifications-directly-from-your-ai-assistant-6363f8218b5b?source=rss-18830b7eb43------2) — Oct 10, 2025<!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts on Medium...](https://medium.com/@kibotu)
 
