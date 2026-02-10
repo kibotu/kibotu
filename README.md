@@ -63,6 +63,7 @@ I lead native app development at [CHECK24 Profis](https://www.check24.de/profis/
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Skill Tree for My Baby &lpar;Because Parenting Is Basically an RPG&rpar;](https://medium.com/@kibotu/i-built-a-skill-tree-for-my-baby-because-parenting-is-basically-an-rpg-0912a80848a0?source=rss-18830b7eb43------2) — Feb 09, 2026
 - [Building a Production-Ready Stale Branch Bot for Jenkins: Lessons from the Trenches](https://medium.com/@kibotu/building-a-production-ready-stale-branch-bot-for-jenkins-lessons-from-the-trenches-880a2b9dec3e?source=rss-18830b7eb43------2) — Jan 28, 2026
 - [Git Panorama: Mapping Your Team’s Codebase Journey](https://medium.com/@kibotu/git-panorama-mapping-your-teams-codebase-journey-438dfb4d9bb8?source=rss-18830b7eb43------2) — Dec 23, 2025
 - [A Pragmatic Git Workflow for App Development Teams](https://medium.com/@kibotu/a-pragmatic-git-workflow-for-app-development-teams-762dff6fc138?source=rss-18830b7eb43------2) — Dec 16, 2025
@@ -71,8 +72,7 @@ I lead native app development at [CHECK24 Profis](https://www.check24.de/profis/
 - [Where do all the bytes in an iOS app actually go](https://medium.com/@kibotu/where-do-all-the-bytes-in-an-ios-app-actually-go-42e020cdcde9?source=rss-18830b7eb43------2) — Nov 12, 2025
 - [Elevating iOS Logging: A Better Way Forward with Orchard](https://medium.com/@kibotu/elevating-ios-logging-a-better-way-forward-with-orchard-aa2747f0f82b?source=rss-18830b7eb43------2) — Oct 21, 2025
 - [The UIViewController Focus Problem &lpar;And How We Actually Solved It&rpar;](https://medium.com/@kibotu/the-uiviewcontroller-focus-problem-and-how-we-actually-solved-it-602d533ac761?source=rss-18830b7eb43------2) — Oct 17, 2025
-- [Maestro: Empowering Teams to Ship Mobile Apps with Confidence](https://medium.com/@kibotu/maestro-empowering-teams-to-ship-mobile-apps-with-confidence-577ecb43f55e?source=rss-18830b7eb43------2) — Oct 13, 2025
-- [Stop Context Switching: Send Push Notifications Directly From Your AI Assistant](https://medium.com/@kibotu/stop-context-switching-send-push-notifications-directly-from-your-ai-assistant-6363f8218b5b?source=rss-18830b7eb43------2) — Oct 10, 2025<!-- BLOG-POST-LIST:END -->
+- [Maestro: Empowering Teams to Ship Mobile Apps with Confidence](https://medium.com/@kibotu/maestro-empowering-teams-to-ship-mobile-apps-with-confidence-577ecb43f55e?source=rss-18830b7eb43------2) — Oct 13, 2025<!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts on Medium...](https://medium.com/@kibotu)
 
