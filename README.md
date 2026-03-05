@@ -63,6 +63,8 @@ I lead native app development at [CHECK24 Profis](https://www.check24.de/profis/
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trail: A Self-Hosted Micro Link Journal for People Who Miss Chronological Feeds](https://medium.com/@kibotu/trail-a-self-hosted-micro-link-journal-for-people-who-miss-chronological-feeds-e95b8d1270cc?source=rss-18830b7eb43------2) — Mar 04, 2026
+- [Trail for Android: A Native Client for Your Self-Hosted Link Journal](https://medium.com/@kibotu/trail-for-android-a-native-client-for-your-self-hosted-link-journal-e8b9ccae7151?source=rss-18830b7eb43------2) — Mar 04, 2026
 - [I Built a Skill Tree for My Baby &lpar;Because Parenting Is Basically an RPG&rpar;](https://medium.com/@kibotu/i-built-a-skill-tree-for-my-baby-because-parenting-is-basically-an-rpg-0912a80848a0?source=rss-18830b7eb43------2) — Feb 09, 2026
 - [Building a Production-Ready Stale Branch Bot for Jenkins: Lessons from the Trenches](https://medium.com/@kibotu/building-a-production-ready-stale-branch-bot-for-jenkins-lessons-from-the-trenches-880a2b9dec3e?source=rss-18830b7eb43------2) — Jan 28, 2026
 - [Git Panorama: Mapping Your Team’s Codebase Journey](https://medium.com/@kibotu/git-panorama-mapping-your-teams-codebase-journey-438dfb4d9bb8?source=rss-18830b7eb43------2) — Dec 23, 2025
@@ -70,9 +72,7 @@ I lead native app development at [CHECK24 Profis](https://www.check24.de/profis/
 - [I Hit Firebase’s Free Tier Limit After 11 Million Events. So I Built My Own Backend.](https://medium.com/@kibotu/i-hit-firebases-free-tier-limit-after-11-million-events-so-i-built-my-own-backend-bb7164798dff?source=rss-18830b7eb43------2) — Dec 12, 2025
 - [I Found a Great ADB Guide. Then I Built a Tool So I’d Never Have to Type Those Commands Again.](https://medium.com/@kibotu/i-found-a-great-adb-guide-then-i-built-a-tool-so-id-never-have-to-type-those-commands-again-5bc48f012e2e?source=rss-18830b7eb43------2) — Nov 28, 2025
 - [Where do all the bytes in an iOS app actually go](https://medium.com/@kibotu/where-do-all-the-bytes-in-an-ios-app-actually-go-42e020cdcde9?source=rss-18830b7eb43------2) — Nov 12, 2025
-- [Elevating iOS Logging: A Better Way Forward with Orchard](https://medium.com/@kibotu/elevating-ios-logging-a-better-way-forward-with-orchard-aa2747f0f82b?source=rss-18830b7eb43------2) — Oct 21, 2025
-- [The UIViewController Focus Problem &lpar;And How We Actually Solved It&rpar;](https://medium.com/@kibotu/the-uiviewcontroller-focus-problem-and-how-we-actually-solved-it-602d533ac761?source=rss-18830b7eb43------2) — Oct 17, 2025
-- [Maestro: Empowering Teams to Ship Mobile Apps with Confidence](https://medium.com/@kibotu/maestro-empowering-teams-to-ship-mobile-apps-with-confidence-577ecb43f55e?source=rss-18830b7eb43------2) — Oct 13, 2025<!-- BLOG-POST-LIST:END -->
+- [Elevating iOS Logging: A Better Way Forward with Orchard](https://medium.com/@kibotu/elevating-ios-logging-a-better-way-forward-with-orchard-aa2747f0f82b?source=rss-18830b7eb43------2) — Oct 21, 2025<!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts on Medium...](https://medium.com/@kibotu)
 
