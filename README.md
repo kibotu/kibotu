@@ -63,7 +63,7 @@ I lead native app development at [CHECK24 Profis](https://www.check24.de/profis/
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [One await to Rule Them All: A Unified WebView Bridge for Android and iOS](https://medium.com/proandroiddev/one-await-to-rule-them-all-a-unified-webview-bridge-for-android-and-ios-6e4aa9f9f683?source=rss-18830b7eb43------2) — Mar 11, 2026
+- [One await to Rule Them All: A Unified WebView Bridge for Android and iOS](https://proandroiddev.com/one-await-to-rule-them-all-a-unified-webview-bridge-for-android-and-ios-6e4aa9f9f683?source=rss-18830b7eb43------2) — Mar 11, 2026
 - [Trail: A Self-Hosted Micro Link Journal for People Who Miss Chronological Feeds](https://medium.com/@kibotu/trail-a-self-hosted-micro-link-journal-for-people-who-miss-chronological-feeds-e95b8d1270cc?source=rss-18830b7eb43------2) — Mar 04, 2026
 - [Trail for Android: A Native Client for Your Self-Hosted Link Journal](https://medium.com/@kibotu/trail-for-android-a-native-client-for-your-self-hosted-link-journal-e8b9ccae7151?source=rss-18830b7eb43------2) — Mar 04, 2026
 - [I Built a Skill Tree for My Baby &lpar;Because Parenting Is Basically an RPG&rpar;](https://medium.com/@kibotu/i-built-a-skill-tree-for-my-baby-because-parenting-is-basically-an-rpg-0912a80848a0?source=rss-18830b7eb43------2) — Feb 09, 2026
