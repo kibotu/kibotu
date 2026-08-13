@@ -1127,6 +1127,8 @@ I'm always happy to chat about native development, team leadership, or just swap
 
 ---
 
+[![GitHub Tamagotchi](https://git-dragon.vercel.app/api/dragon?username=kibotu)](https://git-dragon.vercel.app)
+
 <div align="center">
 <sub>Built with ❤️ in Berlin · Open to interesting conversations and collaborations</sub>
 </div>
