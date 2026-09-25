@@ -63,6 +63,7 @@ I lead native app development at [CHECK24 Profis](https://www.check24.de/profis/
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Proxy your Android emulator and iOS simulator to your local Docker stack](https://medium.com/@kibotu/proxy-your-android-emulator-and-ios-simulator-to-your-local-docker-stack-d251321d8017?source=rss-18830b7eb43------2) — Sep 24, 2026
 - [The Hidden .github Repository: Remove Duplicate Files Across GitHub](https://medium.com/@kibotu/the-hidden-github-repository-remove-duplicate-files-across-github-3f3426cd242e?source=rss-18830b7eb43------2) — Aug 13, 2026
 - [Your AI Coding Agent Uses Your Terminal’s Tools. Give It Better Ones.](https://medium.com/@kibotu/your-ai-coding-agent-uses-your-terminals-tools-give-it-better-ones-bdcfb6737ac9?source=rss-18830b7eb43------2) — Jul 10, 2026
 - [Two Paths to Local LLM Servers: Windows NVIDIA vs Mac Apple Silicon](https://medium.com/@kibotu/two-paths-to-local-llm-servers-windows-nvidia-vs-mac-apple-silicon-1e28d606f600?source=rss-18830b7eb43------2) — Apr 20, 2026
@@ -71,8 +72,7 @@ I lead native app development at [CHECK24 Profis](https://www.check24.de/profis/
 - [Trail for Android: A Native Client for Your Self-Hosted Link Journal](https://medium.com/@kibotu/trail-for-android-a-native-client-for-your-self-hosted-link-journal-e8b9ccae7151?source=rss-18830b7eb43------2) — Mar 04, 2026
 - [I Built a Skill Tree for My Baby &lpar;Because Parenting Is Basically an RPG&rpar;](https://medium.com/@kibotu/i-built-a-skill-tree-for-my-baby-because-parenting-is-basically-an-rpg-0912a80848a0?source=rss-18830b7eb43------2) — Feb 09, 2026
 - [Building a Production-Ready Stale Branch Bot for Jenkins: Lessons from the Trenches](https://medium.com/@kibotu/building-a-production-ready-stale-branch-bot-for-jenkins-lessons-from-the-trenches-880a2b9dec3e?source=rss-18830b7eb43------2) — Jan 28, 2026
-- [Git Panorama: Mapping Your Team’s Codebase Journey](https://medium.com/@kibotu/git-panorama-mapping-your-teams-codebase-journey-438dfb4d9bb8?source=rss-18830b7eb43------2) — Dec 23, 2025
-- [A Pragmatic Git Workflow for App Development Teams](https://medium.com/@kibotu/a-pragmatic-git-workflow-for-app-development-teams-762dff6fc138?source=rss-18830b7eb43------2) — Dec 16, 2025<!-- BLOG-POST-LIST:END -->
+- [Git Panorama: Mapping Your Team’s Codebase Journey](https://medium.com/@kibotu/git-panorama-mapping-your-teams-codebase-journey-438dfb4d9bb8?source=rss-18830b7eb43------2) — Dec 23, 2025<!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts on Medium...](https://medium.com/@kibotu)
 
